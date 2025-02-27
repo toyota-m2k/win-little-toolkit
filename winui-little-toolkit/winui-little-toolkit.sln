@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winui-little-toolkit", "winui-little-toolkit\winui-little-toolkit.csproj", "{2D5B2FE0-4BAA-4334-997E-A0E44710509D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zUnitTest", "UnitTest\zUnitTest.csproj", "{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5B2FE0-4BAA-4334-997E-A0E44710509D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5B2FE0-4BAA-4334-997E-A0E44710509D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5B2FE0-4BAA-4334-997E-A0E44710509D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5B2FE0-4BAA-4334-997E-A0E44710509D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}.Debug|Any CPU.Build.0 = Debug|x64
+		{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}.Debug|Any CPU.Deploy.0 = Debug|x64
+		{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}.Release|Any CPU.ActiveCfg = Release|x64
+		{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}.Release|Any CPU.Build.0 = Release|x64
+		{68BF4802-9EB0-4851-8EAD-08BE9C42B2C9}.Release|Any CPU.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A80E3E-0036-4F10-AE1D-B35D9F0D85CD}
+	EndGlobalSection
+EndGlobal
